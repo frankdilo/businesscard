@@ -14,21 +14,21 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('Max Stoiber /'),
-  handle: chalk.cyan('mxstbr'),
-  work: chalk.white('Software Engineer at GitHub'),
-  twitter: chalk.cyan('twitter.com/mxstbr'),
-  github: chalk.cyan('github.com/mxstbr'),
-  linkedin: chalk.cyan('linkedin.com/in/mxstbr'),
-  web: chalk.cyan('mxstbr.com'),
-  npx: chalk.white('npx mxstbr'),
-  labelWork: chalk.white.bold('      Work:'),
-  labelTwitter: chalk.white.bold('   Twitter:'),
-  labelGitHub: chalk.white.bold('    GitHub:'),
-  labelLinkedIn: chalk.white.bold('  LinkedIn:'),
-  labelWeb: chalk.white.bold('       Web:'),
-  labelCard: chalk.white.bold('      Card:')
-}
+  name: chalk.white("Francesco Di Lorenzo /"),
+  handle: chalk.cyan("frankdilo"),
+  work: chalk.white("Co-founder Superlinear"),
+  twitter: chalk.cyan("twitter.com/frankdilo"),
+  github: chalk.cyan("github.com/frankdilo"),
+  linkedin: chalk.cyan("linkedin.com/in/frankdilo"),
+  web: chalk.cyan("frankdilo.com"),
+  npx: chalk.white("npx frankdilo"),
+  labelWork: chalk.white.bold("      Work:"),
+  labelTwitter: chalk.white.bold("   Twitter:"),
+  labelGitHub: chalk.white.bold("    GitHub:"),
+  labelLinkedIn: chalk.white.bold("  LinkedIn:"),
+  labelWeb: chalk.white.bold("       Web:"),
+  labelCard: chalk.white.bold("      Card:"),
+};
 
 // Actual strings we're going to output
 const newline = '\n'
